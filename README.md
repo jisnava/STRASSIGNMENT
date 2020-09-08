@@ -18,7 +18,7 @@ Fragment Library Creation folders and files include:
 CNN Model folders and files include:
 
 1) modifiedcode 
-#includes the main file deepfsa_model.ipynb file, testing files, trained weights etc.   // deepfsa_model.ipnb is the main program for DLFSA.
+#includes the main file dlfsa_model.ipynb file, testing files, trained weights etc.   // dlfsa_model.ipnb is the main program for DLFSA.
 
 2) Loss.png // Plot showing loss
 
